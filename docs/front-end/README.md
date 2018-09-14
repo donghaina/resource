@@ -14,6 +14,8 @@
 - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 - [vue技术内幕](http://hcysun.me/vue-design/)
 
+## 构建工具
+[深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 ## 前端在线编辑器
 - [codepen](https://codepen.io/)
 - [jsbin](https://jsbin.com/)
